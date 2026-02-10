@@ -1,2 +1,6 @@
-# ReactNativeDestination_For_FlutterSourceRas
-ReactNativeDestination_For_FlutterSourceRas
+# Flutter to React Native Destination Repo
+
+This repository is used only to test the
+Flutter → React Native migration agent.
+
+No manual changes should be made here.

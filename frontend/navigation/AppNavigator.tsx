@@ -1,0 +1,1 @@
+I need the exact list of routes defined in your Flutter `routes.dart` (including each route name and any parameters it expects) to generate a correctly typed `RootStackParamList` and register the corresponding `<Stack.Screen>` components. Please provide that information.

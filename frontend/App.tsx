@@ -1,0 +1,1 @@
+I cannot generate the React Native entry point without the Flutter route definitions. Please provide the `main.dart` (or the file where the routes are defined) so I can create the exact `App.tsx` with the correct initial route and screen mappings.
